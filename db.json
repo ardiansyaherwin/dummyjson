@@ -1,5 +1,4 @@
-[
-  	{
+[{
 		"meal_id": 1517,
 		"meal_name": "Pizza Barbeque Bread",
 		"meal_quantity": 15,
@@ -64,7 +63,7 @@
 	},
 	{
 		"meal_id": 1660,
-		"meal_name": "Red Bean Roll Cake	",
+		"meal_name": "Red Bean Roll Cake",
 		"meal_quantity": 11,
 		"ingredient_list": [{
 			"id": 23,
